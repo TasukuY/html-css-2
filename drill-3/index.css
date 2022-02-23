@@ -48,7 +48,7 @@ header{
 }
 
 #circle {
-    position: sticky;
+    position: fixed;
     bottom: 10px;
     right: 10px;
     margin-right: 10px;
